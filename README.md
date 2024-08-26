@@ -21,9 +21,9 @@ Installation:
 
 Usage:
 1. Run the Script:
-   node discoverLinks.js
+   node scraper.js
 
-2. Follow Prompts:
+3. Follow Prompts:
    - You will be prompted to enter the website URL. Make sure to provide a valid URL starting with http:// or https://.
 
 Script Details:
