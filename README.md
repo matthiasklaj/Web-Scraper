@@ -1,4 +1,4 @@
-Web Scraper
+Web Scraper Script
 
 This Node.js script is designed to analyze a website by discovering internal and external links, checking for common vulnerabilities, and parsing robots.txt and sitemap.xml. It provides a simple way to gather information about a website’s structure and potential issues.
 
